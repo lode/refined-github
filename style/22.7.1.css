@@ -1,0 +1,3 @@
+nav:not(.js-responsive-underlinenav) .js-responsive-underlinenav-overflow {
+  display: none;
+}
