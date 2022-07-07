@@ -1,3 +1,9 @@
+/* #5781 */
 nav:not(.js-responsive-underlinenav) .js-responsive-underlinenav-overflow {
   display: none;
+}
+
+/* #5750 */
+.minimized-comment h3 {
+  max-width: 100%;
 }
